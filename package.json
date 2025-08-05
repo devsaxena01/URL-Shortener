@@ -19,6 +19,7 @@
   "homepage": "https://github.com/devsaxena01/URL-Shortener#readme",
   "description": "",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^5.1.0",
     "mongoose": "^8.17.0",
     "nanoid": "^5.1.5",
